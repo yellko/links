@@ -268,7 +268,7 @@ links:
 
     # CUSTOM LINK
   - Name: Blog
-    URL: https://yellkoo.github.io/
+    URL: https://yellko.github.io/
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
