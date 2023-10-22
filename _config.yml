@@ -284,7 +284,7 @@ links:
   - Name: BLOG
     URL: https://yellko.github.io/
     Icon-Class: fas fa-link
-    Color: '#333333'
+    Color: '#6E695B'
     Text_Color: '#ffffff'
 
   - Name: Links
