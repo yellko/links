@@ -57,16 +57,16 @@ links:
     Username: yellkoo
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-    
-    # TESLA
-  - Name: TESLA
-    URL: https://www.tesla.com/de_DE/referral/
-    Username: kevin117149
-    Color: '#ff0000'
-    Icon-Class: fas fa-link
-    
+     
     # DONATE
   - Name: DONATION
+    URL: https://ko-fi.com/
+    Username: yellko
+    Color: '#ff0000'
+    Icon-Class: fas fa-link
+   
+    # TESLA
+  - Name: TESLA
     URL: https://www.tesla.com/de_DE/referral/
     Username: kevin117149
     Color: '#ff0000'
