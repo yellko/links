@@ -281,7 +281,7 @@ links:
     Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: Blog
+  - Name: BLOG
     URL: https://yellko.github.io/
     Icon-Class: fas fa-link
     Color: '#D2C8AE'
