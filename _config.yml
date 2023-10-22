@@ -26,7 +26,7 @@ links:
   - Name: TIKTOK
     URL: https://www.tiktok.com
     Username: '@yell.ko'
-    Color: '#FE2C55'
+    Color: '#000000'
     Icon-Class: fab fa-tiktok
   
     # TWITCH
@@ -62,7 +62,7 @@ links:
   - Name: DONATION
     URL: https://ko-fi.com/
     Username: yellko
-    Color: '#D2C8AE'
+    Color: '#ffb142'
     Icon-Class: fas fa-link
    
     # TESLA
@@ -284,7 +284,7 @@ links:
   - Name: Blog
     URL: https://yellko.github.io/
     Icon-Class: fas fa-link
-    Color: '#ffb142'
+    Color: '#D2C8AE'
     Text_Color: '#ffffff'
 
   - Name: Links
