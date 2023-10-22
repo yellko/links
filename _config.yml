@@ -23,40 +23,47 @@ links:
     Icon-Class: fab fa-facebook
 
     # TIKTOK
-  - Name: TikTok
+  - Name: TIKTOK
     URL: https://www.tiktok.com
     Username: '@yell.ko'
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
   
     # TWITCH
-  - Name: Twitch
+  - Name: TWITCH
     URL: 'https://twitch.tv'
     Username: yellko
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
   
-    # TWITTER
-  - Name: Twitter
+    # X
+  - Name: X
     URL: 
     Username: yellkoo
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
     # YOUTUBE
-  - Name: YouTube
+  - Name: YOUTUBE
     URL: https://www.youtube.com/channel
     Username: UCLiNrhQNsjfdKGGMI7rfjzw
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
     
     # INSTAGRAM
-  - Name: Instagram
+  - Name: INSTAGRAM
     URL: https://www.instagram.com
     Username: yellkoo
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+    
+    # TESLA
+  - Name: TESLA
+    URL: https://www.tesla.com/de_DE/referral/
+    Username: kevin117149
+    Color: '#ff0000'
+    Icon-Class: fab fa-tesla
 
      # THREADS.NET
   - Name: Threads
