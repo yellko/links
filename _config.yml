@@ -63,7 +63,14 @@ links:
     URL: https://www.tesla.com/de_DE/referral/
     Username: kevin117149
     Color: '#ff0000'
-    Icon-Class: fab fa-tesla
+    Icon-Class: fas fa-link
+    
+    # DONATE
+  - Name: DONATION
+    URL: https://www.tesla.com/de_DE/referral/
+    Username: kevin117149
+    Color: '#ff0000'
+    Icon-Class: fas fa-link
 
      # THREADS.NET
   - Name: Threads
