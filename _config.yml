@@ -57,7 +57,7 @@ links:
     Username: yellkoo
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-     
+    
     # KO-FI
   - Name: KO.FFEE
     URL: https://ko-fi.com
@@ -74,7 +74,7 @@ links:
 
      # THREADS.NET
   - Name: Threads
-    URL: 
+    URL: https://www.threads.net
     Username: yellkoo
     Color: '#000000'
     Icon-Class: fa-solid fa-at
@@ -285,6 +285,12 @@ links:
     URL: https://yellko.github.io/
     Icon-Class: fas fa-link
     Color: '#6E695B'
+    Text_Color: '#ffffff'
+    
+  - Name: THREADS
+    URL: https://www.threads.net/@yellkoo
+    Icon-Class: fas fa-link
+    Color: '#000000'
     Text_Color: '#ffffff'
 
   - Name: Links
