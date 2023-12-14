@@ -28,6 +28,14 @@ links:
     Username: '@yell.ko'
     Color: '#000000'
     Icon-Class: fab fa-tiktok
+    
+    # THREADS.NET
+  - Name: THREADS
+    URL: https://www.threads.net
+    Username: yellkoo
+    Color: '#000000'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'
   
     # TWITCH
   - Name: TWITCH
@@ -71,14 +79,6 @@ links:
     Username: kevin117149
     Color: '#ff0000'
     Icon-Class: fas fa-link
-
-     # THREADS.NET
-  - Name: THREADS
-    URL: https://www.threads.net
-    Username: yellkoo
-    Color: '#000000'
-    Icon-Class: fa-solid fa-at
-    Text_Color: '#ffffff'
 
     # CLUBHOUSE
   - Name: Clubhouse
