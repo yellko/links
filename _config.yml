@@ -73,7 +73,7 @@ links:
     Icon-Class: fas fa-link
 
      # THREADS.NET
-  - Name: Threads
+  - Name: THREADS
     URL: https://www.threads.net
     Username: yellkoo
     Color: '#000000'
@@ -285,12 +285,6 @@ links:
     URL: https://yellko.github.io/
     Icon-Class: fas fa-link
     Color: '#6E695B'
-    Text_Color: '#ffffff'
-    
-  - Name: THREADS
-    URL: https://www.threads.net/@yellkoo
-    Icon-Class: fas fa-link
-    Color: '#000000'
     Text_Color: '#ffffff'
 
   - Name: Links
