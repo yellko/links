@@ -21,7 +21,15 @@ links:
     Username: yellkoo
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
-
+  
+    # TWITCH
+  - Name: TWITCH
+    URL: 'https://twitch.tv'
+    Username: yellko
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
+    
     # TIKTOK
   - Name: TIKTOK
     URL: https://www.tiktok.com
@@ -36,15 +44,7 @@ links:
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
-  
-    # TWITCH
-  - Name: TWITCH
-    URL: 'https://twitch.tv'
-    Username: yellko
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
-  
+ 
     # X
   - Name: X
     URL: 
