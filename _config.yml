@@ -37,11 +37,11 @@ links:
     Color: '#000000'
     Icon-Class: fab fa-tiktok
     
-    # THREADS.NET
-  - Name: THREADS
-    URL: https://www.threads.net
-    Username: yellkoo
-    Color: '#000000'
+    # Bluesky
+  - Name: Bluesky
+    URL: https://bsky.app/profile
+    Username: yellko.bsky.social
+    Color: '#4ca2fe'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
  
