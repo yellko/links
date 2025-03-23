@@ -36,7 +36,15 @@ links:
     Username: '@yell.ko'
     Color: '#000000'
     Icon-Class: fab fa-tiktok
-    
+ 
+     # Bluesky
+  - Name: BLUESKY
+    URL: https://bsky.app/profile/
+    Username: yellko.bsky.social
+    Color: '#3496fe'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'
+ 
     # THREADS
   - Name: threads
     URL: https://www.threads.net
