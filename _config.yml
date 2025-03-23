@@ -44,14 +44,6 @@ links:
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
-    
-    # Bluesky
-  - Name: BLUESKY
-    URL: https://bsky.app/profile
-    Username: yellko.bsky.social
-    Color: '#4ca2fe'
-    Icon-Class: fa-solid fa-at
-    Text_Color: '#ffffff'
  
     # X
   - Name: X
