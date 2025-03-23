@@ -46,7 +46,7 @@ links:
     Text_Color: '#ffffff'
     
     # Bluesky
-  - Name: Bluesky
+  - Name: BLUESKY
     URL: https://bsky.app/profile
     Username: yellko.bsky.social
     Color: '#4ca2fe'
