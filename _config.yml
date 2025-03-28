@@ -1,14 +1,14 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: yellko
+name: YELLKO
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: GAMER 🕹️ / STREAMER 📺 / VATER 👨‍🍼 | EGO-SHOOTER 🎯 | MMORPGS 🧚‍♀️ | HACK'N'SLAYS 🪓 | LIVE on TikTok
+tagline: GAMER 🕹️ / STREAMER 📺 / VATER 👨‍🍼 | EGO-SHOOTER 🎯 | MMORPGS 🧚‍♀️ | HACK'N'SLAYS 🪓 | LIVE on Twitch & TikTok
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://avatars.githubusercontent.com/u/34545614?s=400&u=60ac6851dc36f67d02710c1c13ae5dbbaff58e65&v=4
+Image_URL: https://avatars.githubusercontent.com/u/34545614?v=4
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://avatars.githubusercontent.com/u/34545614?s=400&u=60ac6851dc36f67d02710c1c13ae5dbbaff58e65&v=4
+Cover_Image: https://avatars.githubusercontent.com/u/34545614?v=4
 
 # SOCIAL MEDIA
 links:
@@ -21,13 +21,6 @@ links:
     Username: yellkoo
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
-
-    # TIKTOK
-  - Name: TIKTOK
-    URL: https://www.tiktok.com
-    Username: '@yell.ko'
-    Color: '#000000'
-    Icon-Class: fab fa-tiktok
   
     # TWITCH
   - Name: TWITCH
@@ -36,7 +29,30 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
-  
+    
+    # TIKTOK
+  - Name: TIKTOK
+    URL: https://www.tiktok.com
+    Username: '@yell.ko'
+    Color: '#000000'
+    Icon-Class: fab fa-tiktok
+ 
+     # Bluesky
+  - Name: BLUESKY
+    URL: https://bsky.app/profile/
+    Username: yellko.bsky.social
+    Color: '#3496fe'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'
+ 
+    # THREADS
+  - Name: threads
+    URL: https://www.threads.net
+    Username: @yellkoo
+    Color: '#000000'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'
+ 
     # X
   - Name: X
     URL: 
