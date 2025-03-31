@@ -16,6 +16,7 @@ html {
     }
     font-family: 'Poppins', sans-serif;
     #image {
+    	border: 0px solid !important;
         transition: all 0.5s ease;
         background-position: center;
         &:hover {
