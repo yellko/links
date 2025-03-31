@@ -294,6 +294,13 @@ links:
     Icon-Class: fas fa-link
     Color: '#6E695B'
     Text_Color: '#ffffff'
+    
+    # IMPRESSUM
+  - Name: IMPRESSUM
+    URL: https://yellko.github.io/impressum
+    Icon-Class: fas fa-link
+    Color: '#6E695B'
+    Text_Color: '#ffffff'
 
   - Name: Links
     URL: 
