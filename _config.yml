@@ -48,7 +48,7 @@ links:
     # THREADS
   - Name: threads
     URL: https://www.threads.net/
-    Username: @yellkoo
+    Username: yellkoo
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
