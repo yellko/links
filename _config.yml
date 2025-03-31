@@ -85,8 +85,8 @@ links:
    
     # TESLA
   - Name: TESLA
-    URL: https://www.tesla.com/de_DE/referral
-    Username: kevin117149
+    URL: 
+    Username: 
     Color: '#ff0000'
     Icon-Class: fas fa-link
 
